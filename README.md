@@ -1,6 +1,6 @@
 ### Hi there I'm 么耶咩(guofeng)👋
 
-Now I'm working at Baidu as a web frontend developer.
+Now I'm working at IM30 as a web frontend developer.
 
 <strong>Languages and Tools:</strong>
 <p><code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></a></code>
